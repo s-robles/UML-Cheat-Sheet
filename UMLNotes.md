@@ -7,7 +7,7 @@
   * "+" Public
   * "#" Protected
   * "~" Package-Private
-* Relationships![UMLRelationships](C:\Users\simon\Pictures\Education\UMLRelationships.png)
+* Relationships: ![img](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Uml_classes_en.svg/1280px-Uml_classes_en.svg.png)
 * NOTE: To Show abstract classes we can place the name in italics or enclosed in <<>>
   * (ex) *AbstractClass* or <<AbstractClass>>
 * Multiplicity
@@ -25,7 +25,7 @@
 * Return Message: when an object sends a message back (to the actor)
 * Alternative Frame: symbolizes the choice between two or more message sequences
 * Activation Boxes: Show when, and for how long objects are active
-* Sequence Example: 
+* Sequence Example(s): ![img](https://i.pinimg.com/originals/1b/89/5f/1b895f2591cc045e404a8438cea82798.png)
 
 ![SequenceExample](C:\Users\simon\Pictures\Education\SequenceExample.png)
 
